@@ -6,4 +6,4 @@ cv.imshow("Blank", blank)
 
 # 1. Paint the image a certain color
 blank[:] = 0, 255, 0
-cv.imshow("Green", blank)
+cv.imshow("Green", blank) 
